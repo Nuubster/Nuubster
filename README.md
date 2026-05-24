@@ -1,4 +1,4 @@
 - Hi, I’m @Nuubster
 - I’m interested in learning to code so i can make fun stuff
-- I’m currently ( procrastinating on ) learning Html/Css for my own little neocities website
+- I’m currently ( procrastinating on ) learning C for some low level shenanigans
 - How to reach me? you cant :D
