@@ -1,4 +1,4 @@
 - Hi, I’m @Nuubster
 - I’m interested in learning to code so i can make fun stuff
 - I’m currently ( procrastinating on ) learning C for some low level shenanigans
-- How to reach me? you cant :D
+- How to reach me? via discord: windows.xp.enjoyer
